@@ -1,0 +1,17 @@
+.button {
+  font-size: 18px;
+  background-color: var(--cyan);
+  border: none;
+  color: white;
+  border-radius: 90px;
+  padding: 10px 25px;
+}
+
+.classSubmit {
+  border-radius: 10px;
+}
+
+.buttonSignUp {
+  padding: 5px 15px;
+  font-size: 16px;
+}
